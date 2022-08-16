@@ -4,7 +4,7 @@ This sample project can simulate scenery described [here](https://www.mongodb.co
 
 ## RUN
 
-To run properly we need to change the section `environmentVariables` in `launchsettings.json` file:
+To run properly we need to put the appropriate values in section `environmentVariables` of `launchsettings.json` file:
 
 ```
 ...
