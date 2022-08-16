@@ -5,8 +5,8 @@
       "dotnetRunMessages": "true",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development",
-        "CMK_BASE64" : "<PUT HERE YOUR MONGODB CONNECTION STRING>",
-        "MONGODB_CONNECTION_STRING" : "<PUT HERE YOUR CMK IN BASE64 FORMAT>"
+        "CMK_BASE64" : "<PUT HERE YOUR CMK IN BASE64 FORMAT>",
+        "MONGODB_CONNECTION_STRING" : "<PUT HERE YOUR MONGODB CONNECTION STRING>"
       }
     }
   }
